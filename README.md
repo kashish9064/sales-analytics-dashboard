@@ -6,8 +6,11 @@ Excel · MySQL · Power BI · End-to-End Business Intelligence Project
 Analyzed 4,600 daily transactions across 4 products over 13 years (2010–2023), uncovering $237.5M in total revenue through an end-to-end analytics pipeline — from raw data preparation to executive dashboarding.
 
 📦 Dataset-4,600 rows · 4 products · Jun 2010 – Feb 2023
+
 💰Revenue Analyzed-$237.5 million total · $48.4M units sold
-🛠️ ToolsExcel- · MySQL 8.0 · Power BI · DAX
+
+🛠️ Tools- Excel ·MySQL ·Power BI ·DAX
+
 📄 Deliverables- Excel Workbook · 24 SQL Queries · 4-Page BI Dashboard
 
 ---
